@@ -28,6 +28,8 @@ Volume vs Duration - data collection set
 https://www.epa.gov/tmdl
 
 2. what is the dashboard built on?
++ https://www.klipfolio.com/choosing-the-right-dashboard-report
++ https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/
 
 3. Alerting system?
 
@@ -39,5 +41,3 @@ https://www.epa.gov/tmdl
 ## Data Collection & Reporting
 
 Reporting Dashboard - Alerting
-+ https://www.klipfolio.com/choosing-the-right-dashboard-report
-+ https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/
