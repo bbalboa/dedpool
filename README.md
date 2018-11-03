@@ -1,4 +1,7 @@
-# HACKTHEIRL - Team dedpool - Smart Baffle Box
+# HACKTHEIRL - Team Dedpool - Smart Baffle Box
+
+Thoughts process debrief:
+[DedPool - Hack the IRL Project -- Vlog 11.3.2018 -- Benjamin Spak](https://youtu.be/vHDMbWkQup8)
 
 ## Goals: 
 
