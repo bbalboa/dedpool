@@ -6,7 +6,7 @@ Thoughts process debrief:
 ## Goals: 
 
 1. Mitigate bio-matter from entering water ways.
-1. Capture NPK (Nitrogen, Phosurus, Potasium) readings & send to reporting dashboard.
+1. Capture NPK (Nitrogen, Phosphorus, Potassium) readings & send to reporting dashboard.
 1. Monitor Baffle Box contents & report when it needs to be emptied.
 1. Empower biologists with additional data that may one day lead to accurate bloom prediction.
 
