@@ -24,6 +24,13 @@ Time to Failure
 
 Volume vs Duration - data collection set
 
+1. What is a good phosphate limit for sensor to alert? <br>
+https://www.epa.gov/tmdl
+
+2. what is the dashboard built on?
+
+3. Alerting system?
+
 ## Selling Points
 
 + Savings - Less manpower for labor intensive sampling
