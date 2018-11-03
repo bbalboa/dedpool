@@ -1,18 +1,15 @@
-# HACKTHEIRL - Team dedpool
+# HACKTHEIRL - Team dedpool - Smart Baffle Box
 
-Goal: Capture and analyze data for alerting and predictive blooms
+## Goals: 
 
-Who - Baffle Box locations
+1. Mitigate bio-matter from entering water ways.
+1. Capture NPK (Nitrogen, Phosurus, Potasium) readings & send to reporting dashboard.
+1. Monitor Baffle Box contents & report when it needs to be emptied.
+1. Empower biologists with additional data that may one day lead to accurate bloom prediction.
 
-What - Mitigation via sensors to capture data (phosphate, nitrates, etc.)
+## Open Questions:
 
-Where - IRL
-
-How - Reporting dashboard
-
-Why - Active health reporting on IRL, preventative action to decrease blooms and pollutants
-
-# Challenges
+Where to locate the baffle box's for maximum effectiveness?
 
 Power - Solar
 
@@ -24,12 +21,13 @@ Time to Failure
 
 Volume vs Duration - data collection set
 
-# Selling Points
+## Selling Points
 
 + Savings - Less manpower for labor intensive sampling
 + Keep people healthy - protect against disease clusters -- Alzheimer's - BMAA (NueroToxin) - & liver damage primarily.
 
-# Data Collection & Reporting
+## Data Collection & Reporting
 
 Reporting Dashboard - Alerting
 + https://www.klipfolio.com/choosing-the-right-dashboard-report
++ https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/
