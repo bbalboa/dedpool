@@ -12,11 +12,15 @@ Thoughts process debrief:
 
 ## Open Questions:
 
-Where to locate the baffle box's for maximum effectiveness?
+Location: <br>
++ Where to locate the baffle box's for maximum effectiveness?
 
-Power - Solar
+Power - Solar: <br>
++ How much power do we need to operate the sensors?
 
-Communication  - WiFi (WAN), LTE
+Communication - LTE: <br>
++ Who's our service provider?
++ Who can we partner with to use their data?
 
 Data size (storage)
 
