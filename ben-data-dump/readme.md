@@ -36,3 +36,5 @@
 ### Machine Learning Object Detection
 + https://medium.com/nanonets/how-to-easily-detect-objects-with-deep-learning-on-raspberrypi-225f29635c74
 + https://towardsdatascience.com/evolution-of-object-detection-and-localization-algorithms-e241021d8bad
+
+![](https://cdn-images-1.medium.com/max/800/1*I4vKwR9X33DoNz36I1IooQ.jpeg)

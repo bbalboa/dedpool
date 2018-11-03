@@ -24,8 +24,12 @@ Time to Failure
 
 Volume vs Duration - data collection set
 
-# Public
+# Selling Points
 
-Reporting Dashboard - Alerting, citizen reporting
++ Savings - Less manpower for labor intensive sampling
++ Keep people healthy - protect against disease clusters -- Alzheimer's - BMAA (NueroToxin) - & liver damage primarily.
 
-Savings - Less manpower for labor intensive sampling
+# Data Collection & Reporting
+
+Reporting Dashboard - Alerting
++ https://www.klipfolio.com/choosing-the-right-dashboard-report
