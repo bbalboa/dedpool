@@ -22,11 +22,18 @@ Communication - LTE: <br>
 + Who's our service provider?
 + Who can we partner with to use their data?
 
-Data size (storage)
+Data Collection, Reporting & Storage:<br>
++ How often do we sample NPK readings?
++ How often do we sycn & report NPK readings?
++ How much local storage do we need?
 
-Time to Failure
+Time to Failure: <br>
++ How often will sensors need to be replaced?
++ How much do new sensors cost?
+  + Can we buy in bulk @ a discount?
++ 
 
-Volume vs Duration - data collection set
+
 
 1. What is a good phosphate limit for sensor to alert? <br>
 https://www.epa.gov/tmdl
