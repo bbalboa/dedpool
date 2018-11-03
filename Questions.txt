@@ -1,0 +1,6 @@
+1. What is a good phosphate limit for sensor to alert?
+https://www.epa.gov/tmdl
+
+2. what is the dashboard built on?
+
+3. Alerting system?
