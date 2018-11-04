@@ -106,3 +106,14 @@ https://www.tampabay.com/news/environment/Mosaic-spent-20-years-planning-new-pho
 https://www.youtube.com/watch?v=gkfZNvAs0-4
 
 https://drive.google.com/file/d/0B5EMhnxDAQybNnM0MnJJSTduMjhtaG1hZWxPOE85S3ZUbF80/view
+
+
+
+61 IRL SLE - st lucie estruary
+http://fau.loboviz.com/cgi-data/nph-data.cgi?min_date=20160628&max_date=20160702&y=salinity,nitrate&data_format=text&node=61
+
+56 IRL SB - sebastian
+http://fau.loboviz.com/cgi-data/nph-data.cgi?min_date=20160628&max_date=20160702&y=salinity,nitrate&data_format=text&node=56
+
+62 IRL JB - jensen beach
+http://fau.loboviz.com/cgi-data/nph-data.cgi?min_date=20160628&max_date=20160702&y=salinity,nitrate&data_format=text&node=62
